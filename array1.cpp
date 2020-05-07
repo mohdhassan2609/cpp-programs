@@ -28,4 +28,5 @@ int main()
 		cin>>i1>>j1;
 		cout<<v[i1][j1];
 	}
+	return 0;
 }
