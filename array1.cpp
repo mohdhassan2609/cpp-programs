@@ -10,7 +10,7 @@
 using namespace std;
 int main()
 {
-	int n,q;
+	int n,q; //varible declaration
 	cin>>n>>q;
 	vector<vector>v;
 	for(int i=0;i<n;i++)
